@@ -7,7 +7,7 @@ $(document).ready(function(){
     var theNumber = parseInt($("input#number").val());
 
 
-
+    $(".name").text(theName);
 
     if(theCar==="BMW"){
       var celeb1="Prince Charming";
@@ -15,7 +15,7 @@ $(document).ready(function(){
       if (theNumber >= 10){
         alert(celeb1);
       } else {
-        alert(celeb2);
+        $("#shrek").show();
       }
     } else if(theCar==="Ferrari"){
       var celeb1="Dragon";
