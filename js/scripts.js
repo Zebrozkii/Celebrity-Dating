@@ -14,7 +14,7 @@ $(document).ready(function(){
       $("#ant").show();
     } else {
       $("#ant").hide();
-      $("#turte").hide();
+      $("#turtle").hide();
       $("#manatee").show();
     }
 
