@@ -1,12 +1,4 @@
-#turtle {
-  display: none;
-}
-
-#ant {
-  display: none;
-}
-
-#manatee {
+.container {
   display: none;
 }
 
@@ -14,10 +6,9 @@
   margin-top: 5%;
 }
 
-#formAnimals {
-  margin: 3%;
+body {
+  margin: 5%;
 }
-
 h1 {
   text-align: center;
 }

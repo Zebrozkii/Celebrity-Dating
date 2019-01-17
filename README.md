@@ -1,6 +1,6 @@
-# _Animal wiki_
+# _Celebrity dating Shrek addition_
 
-#### _Animal wiki 01/18/2019_
+#### _Celebrity dating Shrek addition 01/18/2019_
 
 #### By _**Olha Wysocky and Jimmy Zebroski**_
 
