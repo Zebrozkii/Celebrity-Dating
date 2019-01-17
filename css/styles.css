@@ -1,0 +1,28 @@
+#turtle {
+  display: none;
+}
+
+#ant {
+  display: none;
+}
+
+#manatee {
+  display: none;
+}
+
+.btn {
+  margin-top: 5%;
+}
+
+#formAnimals {
+  margin: 3%;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  float: right;
+  height: 300px;
+}
